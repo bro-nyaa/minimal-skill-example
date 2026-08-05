@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimal Skill Example"
+  short_description: "Turn an idea into a tiny runnable plan"
+  default_prompt: "Use $minimal-skill-example to turn my project idea into the smallest runnable plan."
